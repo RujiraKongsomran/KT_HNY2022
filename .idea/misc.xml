@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Project Mobile/Kotlin/KT_HNY2022/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Project Mobile/Kotlin/KT_HNY2022/app/src/main/res/drawable/ic_loop.xml" value="0.1935" />
+        <entry key="..\:/Project Mobile/Kotlin/KT_HNY2022/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Project Mobile/Kotlin/KT_HNY2022/app/src/main/res/drawable/ic_shuffle.xml" value="0.1" />
+        <entry key="..\:/Project Mobile/Kotlin/KT_HNY2022/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
   </component>
